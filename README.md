@@ -1,4 +1,3 @@
-## Professional Networking 
 
 ### LinkedIn-Clone
 
